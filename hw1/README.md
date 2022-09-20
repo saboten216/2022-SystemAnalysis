@@ -45,7 +45,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 python code
 
-```pytho=
+```python
 s = "Python syntax highlighting"
 print s
 ```
@@ -54,7 +54,7 @@ print s
 
 javascript code
 
-```javascript=
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
